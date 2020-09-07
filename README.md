@@ -2,7 +2,7 @@
 Project Name:	Flower Shop Chatbot
 <br /> Platform & Tools:	IBM Cloud, IBM Watson Assistant
 <br /> Description:		A chatbot to assist our flower shop customers
-<br /> Hosting Site:		https://rishabhrshellac.intelaedu.com/
+
 
 # Chat Bot
 3 Properties to Build A Skill to Deploy A Chatbot
